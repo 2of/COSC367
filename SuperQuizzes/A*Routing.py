@@ -6,7 +6,7 @@ BORDERCHARS = ['|','-','+','X']
 FUEL_UP_NAME = 'Fuel up'
 TRANSLATECOST = 5
 
-
+#Note the inclusion of 'deleteme', It provides a nice graphical way to observe the heuristic costs
 
 
 class RoutingGraph(Graph):
