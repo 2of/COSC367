@@ -9,4 +9,11 @@ Note: The code presented here is functional per 2019 and explanations are includ
 Most questions require some University provided modules. Stubs are signed by providers.
  
 
-Solutions added periodically after any assessment has closed. Will take the time to provide explanations to questions that troubled me. Don
+Solutions added periodically after any assessment has closed. Will take the time to provide explanations to questions that troubled me. 
+
+
+- Well course is over!
+
+There's some truly nasty stuff in this repo. It needs some spring cleaning.
+
+-2019 
